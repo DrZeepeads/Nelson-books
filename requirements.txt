@@ -1,0 +1,12 @@
+supabase==2.3.4
+openai==1.12.0
+python-dotenv==1.0.1
+langchain==0.1.9
+langchain-openai==0.0.8
+langchain-community==0.0.25
+tiktoken==0.6.0
+numpy==1.26.4
+pandas==2.2.1
+tqdm==4.66.2
+psycopg2-binary==2.9.9
+
